@@ -30,7 +30,8 @@ Etapa 2: Definicion de solucion
   Calcular el promedio:
   Promedio = Calificacion de las materias por cantidad de asignaturas
   
-  3 Resultado
+  3.Resultado
+ 
   +-----------------------------------------------------------------+
   |Estudiante: Emmanuel           Carrera: Ingenieria Informatica   |
   |Apellidos: Landero Pérez       Grupo: A                          |
