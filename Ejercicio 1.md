@@ -32,7 +32,7 @@ Etapa 2: Definicion de solucion
   
   3.Resultado
  
-  |-----------------------------------------------------------------|
+  
   |Estudiante: Emmanuel           Carrera: Ingenieria Informatica   |
   |Apellidos: Landero Pérez       Grupo: A                          |
   |-----------------------------------------------------------------|
@@ -41,7 +41,7 @@ Etapa 2: Definicion de solucion
   |CALCULO DIFERENCIAL                           92                 |
   |---------------------------------------------------------------- |
   |PROMEDIO                                  89.5                   |
-  |-----------------------------------------------------------------|
+  
   
   
   Etapa 3: Diseño de la solucion
