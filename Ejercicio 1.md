@@ -43,7 +43,9 @@ Etapa 2: Definicion de solucion
   +-----------------------------------------------------------------+
   
   
-  
+  Etapa 3: Diseño de la solucion
+ Diagrama de clase
+ ![](https://github.com/EmmanuelNiro/T3A1/blob/main/T3A1.png)
   
   
   
