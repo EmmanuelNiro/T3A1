@@ -20,7 +20,7 @@ Etapa 2: Definicion de solucion
   Nombre de la asignatura
   Calificacion
   
-  2. roceso
+  2. Proceso
   
   Pedir el nombre y apellidos
   Pedir el grupo y carrera del estudiante
